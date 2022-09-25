@@ -1,0 +1,11 @@
+Model Information:
+* title:	Neon Letters
+* source:	https://sketchfab.com/3d-models/neon-letters-a88035b37ba4498b8d7fe9cfbc0dccc8
+* author:	danny_p3d (https://sketchfab.com/dannyp_3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Neon Letters" (https://sketchfab.com/3d-models/neon-letters-a88035b37ba4498b8d7fe9cfbc0dccc8) by danny_p3d (https://sketchfab.com/dannyp_3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
